@@ -1,0 +1,11 @@
+{
+  "name": "staging-7",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hawk": "2.3.1"
+  }
+}
